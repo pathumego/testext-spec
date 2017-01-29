@@ -1,0 +1,29 @@
+---
+testext: 0.0.1
+data: # data related to test
+  id: 001
+  version: 0.0.1
+  description: Sinhala panagram
+  langauge: sin
+  scirpt: sin
+  writing_systems:
+  content_type: panagram
+  content_tags: cultural
+  test_type: display, basic-otfeatures
+  test_tags: icta-level-1
+  translations: #ID's of available translated content in testext
+  readable: [ true ]
+  linktoimage: #link to images of content correctly renderd.
+
+credits: #metadata of the test
+  credits: By Mooniak and Pushpanada Ekanayke
+  copyright: Mooniak and Pushpanada Ekanayke
+  license: CC-BY-SA-4.0
+  year: 2015
+  url: https://github.com/mooniak/sinhala-font-tools
+
+content: # content blocks
+  - headline: |
+              සිංහල අකුරේ හැඩ රූ
+    body: |
+          සිංහල අකුරු, ඈත අතීතයේ පටන් ඒවා පරිහරණය කළ අපේ මුතුන් මිත්තන් අතින් වැඩි දියුණු වෙමින් අප කරා පැමිණ තිබෙනවා. සිංහල අක්ෂර නිර්මාණය හා විකාශනය දීර්ඝ ඉතිහාසයකට උරුමකම් කියන්නක්. එය, අපේ ඉපැරැණි චිත්‍ර කලා සම්ප්‍රදාය තුළ ඉතා සුන්දර ප්‍රකාශනයක් හැටියට මතු වුණා. සිංහල අකුරුවලට උපතින් ම හිමි වී තිබෙන ජීව ගුණය, ආවේණික හැඩ තල හා සෞන්දර්ය වටිනාකම එදවස කලා ශිල්පීන් මනා ලෙස හඳුනාගෙන සිටි නිසයි ඒ. මුද්‍රණ ශිල්පයේ සම්ප්‍රාප්තියත් සමඟ, තාක්ෂණය හා මුසු වූ අක්ෂර හැඩ තල හා අනුපාත, ප්‍රායෝගික ව වඩාත් නිවැරැදි හා පැහැදිලි තත්ත්වයක් කරා ළඟා වුණා. අප රටේ මුල් කාලයේ මුද්‍රිත පොතපතේ පටන්, එක්දහස් නවසිය අසූ ගණන් දක්වා ම සිංහල අකුරුවල රූපමය ලක්ෂණ වර්ධනය වුණා. එකල කුඩා දරුවන් ගේ පොතකට ගැනුණු ඊයම්වලින් තැනුණු අකුරු මෙන් ම, චිත්‍ර ශිල්පීන් විසින් අවස්ථානුකූල ව අතින් ඇඳි අකුරු වුවත් ඕනෑ ම ළමයෙකුට කියවා ගැනීමේ අපහසුවක් තිබුණේ නැහැ.
