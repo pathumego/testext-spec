@@ -13,7 +13,7 @@ data: # data related to test
   test_tags: icta-level-1
   translations: #ID's of available translated content in testext
   readable: [ true ]
-  linktoimage: #link to images of content correctly renderd.
+  renderd_image: #URL to images of content correctly renderd.
 
 credits: #metadata of the test
   credits: By Mooniak and Pushpanada Ekanayke
