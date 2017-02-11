@@ -13,7 +13,7 @@ data:  #data related to test
   test_tags: #more descriptive tags. Ideally sciprt specific or project specific features.
   translations: #ID's of available translated content in testext
   readable: #Is this a readble text [ true, false ]
-  linktoimage: #link to images of content correctly renderd.
+  renderd_image: #URL to images of content correctly renderd.
 
 credits: #metadata of the test
   credits: #a general credit line
